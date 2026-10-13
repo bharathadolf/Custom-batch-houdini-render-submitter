@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Houdini temporary & backup files
+*.hipnc.bak
+*.hiplc.bak
+*.hip.bak
+*.hip.*
+*.hipnc.*
+*.hiplc.*
+backup/
+desk/
+
+# Tool specific cache & generated parameters
+Parameters/
+Output data/
+shot_groups.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*~
